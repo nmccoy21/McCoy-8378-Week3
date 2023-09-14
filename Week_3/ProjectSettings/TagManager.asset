@@ -6,6 +6,8 @@ TagManager:
   tags:
   - coin
   - bounds
+  - leftScore
+  - rightScore
   layers:
   - Default
   - TransparentFX
